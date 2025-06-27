@@ -1,0 +1,3 @@
+[submodule "rt3-engine"]
+	path = rt3-engine
+	url = https://github.com/OliveiraPedro09/RT3-Engine.git
